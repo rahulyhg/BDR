@@ -20,5 +20,6 @@ Modificado a classe para conexão única por instancia (singleton)
 
 **************************************************************************************
 EXERCÍCIO 4 
-PASTA: exec_04
+PASTA: exec_04 > PhpProject (arquivos do projeto)
+PASTA: exec_04 > MySql (sql import)
 **************************************************************************************
